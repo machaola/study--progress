@@ -1,0 +1,5 @@
+﻿  test.c
+C:\Users\machaola\source\repos\test_11_7\test_11_7\test.c(82,2): warning C4013: “qsort”未定义；假设外部返回 int
+C:\Users\machaola\source\repos\test_11_7\test_11_7\test.c(92,12): warning C4133: “函数”: 从“stu [3]”到“int *”的类型不兼容
+C:\Users\machaola\source\repos\test_11_7\test_11_7\test.c(100,12): warning C4133: “函数”: 从“stu [3]”到“int *”的类型不兼容
+  test_11_7.vcxproj -> C:\Users\machaola\source\repos\test_11_7\x64\Debug\test_11_7.exe
