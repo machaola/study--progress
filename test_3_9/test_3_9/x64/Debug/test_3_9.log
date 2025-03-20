@@ -1,0 +1,3 @@
+﻿  test_c.cpp
+C:\Users\machaola\source\repos\test_3_9\test_3_9\test_c.cpp(97,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\machaola\source\repos\test_3_9\test_3_9\test_c.cpp(102,1): error C4700: 使用了未初始化的局部变量“count”
